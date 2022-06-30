@@ -35,7 +35,6 @@ GitHub Repo: https://github.com/mbutlertechtraining/portfolio.git
 
 GitHub Pages: https://mbutlertechtraining.github.io/portfolio/
 
-![picture](image.png)
 
 ## Installation:
 1. No installation if needed
